@@ -1,0 +1,10 @@
+INSERT INTO pessoa (id, name, anoNascimento) VALUES (1, 'Elder', 1990);
+INSERT INTO pessoa (id, name, anoNascimento) VALUES (2, 'Hugo', 1988);
+INSERT INTO pessoa (id, name, anoNascimento) VALUES (3, 'Isidro', 1995);
+INSERT INTO pessoa (id, name, anoNascimento) VALUES (4, 'Otavio', 1992);
+INSERT INTO pessoa (id, name, anoNascimento) VALUES (5, 'Elias', 1987);
+INSERT INTO pessoa (id, name, anoNascimento) VALUES (6, 'Rodrigo', 1991);
+INSERT INTO pessoa (id, name, anoNascimento) VALUES (7, 'Marcilio', 1994);
+INSERT INTO pessoa (id, name, anoNascimento) VALUES (8, 'Sergio', 1994);
+INSERT INTO pessoa (id, name, anoNascimento) VALUES (9, 'Alessandra', 1996);
+INSERT INTO pessoa (id, name, anoNascimento) VALUES (10, 'Isabela', 2013);
